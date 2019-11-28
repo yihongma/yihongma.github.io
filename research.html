@@ -42,7 +42,7 @@
             </ol>
           </div>
         </div>
-        <h2><a id="ie_history">Person Entity Extraction and Profile Construction in Classical Chinese Historiography</a>
+        <h2><a id="ie_history">Information Extraction and Profile Construction in Classical Chinese Historiography</a>
         </h2>
         <table class="imgtable">
           <tr>
@@ -57,22 +57,22 @@
               <p>I have made the following contributions to the project:</p>
               <ul>
                 <li>
-                  <p>Developed a Bootstrapping algorithm based on textual patterns to iteratively discover new
+                  <p>Developed a bootstrapping algorithm based on textual patterns to iteratively discover new
                     knowledge while handling semantic drift by designing appropriate ranking functions for both patterns and corresponding extractions
                   </p>
                 </li>
                 <li>
-                  <p>Generated profiles of 686 historical figures, achieving an F1 score 0f 0.851 on 15 ground-truth profiles annotated by history professors</p>
+                  <p>Generated profiles for 686 historical figures, achieving an F1 score 0f 0.851 on ground-truth profiles annotated by history professors</p>
                 </li>
-                <li>
+                <!-- <li>
                   <p>Adapted the Bi-LSTM CRF in PyTorch for the task of Named Entity Recognition (NER) in the domain of
                     classical Chinese</p>
-                </li>
+                </li> -->
               </ul>
             </td>
           </tr>
         </table>
-        <h2><a id="gnn">Node Embedding Learning in Academic Publication Graph via Evolutionary Graph Neural Networks</a>
+        <h2><a id="gnn">Graph Representation Learning in Academic Co-author Graph via Evolutionary Graph Neural Networks</a>
         </h2>
         <table class="imgtable">
           <tr>
@@ -82,21 +82,21 @@
             <td>
               <img src="homepage_files/research/gnn/stats.jpg" alt="" width="300px" height="304px" />&nbsp;</td>
             <td align="left">
-              <p>I worked in team to build a framework of evolutionary graph neural networks to generate node
-                embedding series from the seen graph series, preserving the impact of temporally early graphs on the current graph.</p>
+              <p>I worked in team to build a framework of evolutionary graph neural networks to generate low-dimensional embeddings of nodes from a series of temporally consecutive graph snapshots.</p>
               <p>I have made the following contributions to the project:</p>
               <ul>
                 <li>
-                  <p>Worked with Microsoft Academic Graph data (~100G) and mined information from co-author graphs from 2001 to 2010
-                    <!-- , where each node represents an author and each edge indicates the co-authorship in one paper between two authors -->
+                  <p>Worked with Microsoft Academic Graph data (∼100G); built a co-author graph snapshots series from 2001 to 2010
                   </p>
                 </li>
                 <li>
-                  <p>Levaraged statistics in data (shown in the right figure) to support the assumption of the evolutionary nature of both node attributes and graph topology in co-author graphs from year to year
-                  </p>
+                  <!-- <p>Levaraged statistics in data (shown in the right figure) to support the assumption of the evolutionary nature of both node attributes and graph topology in co-author graphs from year to year
+                  </p> -->
+                  <p></p>Proposed a novel K-layer ”highway” network architecture to fuse the influence from previous K graph snapshots for learning the node embeddings in the current graph
+                </p>
                 </li>
                 <li>
-                  <p>“Web scraped” the citations-per-year data of a total of 1,928 author nodes in the publication graph from Google Scholar</p>
+                  <p>Web scraped the detailed citation history of 1,928 authors from Google Scholar</p>
                 </li>
               </ul>
             </td>
@@ -118,8 +118,7 @@
               <p>I have made the following contributions to the project:</p>
               <ul>
                 <li>
-                  <p>Adapted the Pixel-to-Pixel (2D) CycleGAN for Voxel-to-Voxel (3D) domain translation as
-                    one of the baseline models using PyTorch</p>
+                  <p>Modified the paired image-to-image (2D) CycleGAN for voxel-to-voxel (3D) translation as one of the baseline models using PyTorch</p>
                 </li>
                 <li>
                   <p>Conducted exhaustive experiments to compare the performance of the proposed model and 3 baseline
@@ -144,7 +143,7 @@
                 and machine
                 learning. I presented my work at <a
                   href="https://science.nd.edu/events/2018/10/25/fall-undergraduate-research-fair/">Fall Undergraduate
-                  Research Fair (FAIR)</a> at University of Notre Dame and please check the picture on the left.</p>
+                  Research Fair (FAIR)</a> at the University of Notre Dame.</p>
               <p>I have made the following contributions to the project:</p>
               <ul>
                 <li>
@@ -156,7 +155,7 @@
                     coefficients for denoising</p>
                 </li>
                 <li>
-                  <p>Predicted the tendencies (whether going up or down in the next time stamp) of S&amp;P Index using
+                  <p>Predicted the tendencies of S&amp;P Index using
                     the combination of Wavelet Transforms and Deep Neural Network, achieving an accuracy of 60.71% in
                     backtesting</p>
                 </li>
