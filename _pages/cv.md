@@ -7,16 +7,16 @@ author_profile: true
 
 {% include base_path %}
 
-Education
-======
+## **Education**
+
 * University of Notre Dame
     - *Ph.D. in Computer Science and Engineering, Aug. 2020 - Present*
     - *Visiting Undergraduate Student, Aug. 2018 - Sept. 2019*
 * Shanghai University of Finance and Economics
     - *B.Ec. in Finance, Sept. 2016 - June 2020*
 
-Professional Experience
-======
+## **Professional Experience**
+
 * University of Notre Dame, Notre Dame, IN
     - *Graduate Research Assistant, Aug. 2020 - Present*
     - *Graduate Teaching Assistant, Aug. 2021 - Dec. 2021*
@@ -26,8 +26,8 @@ Professional Experience
 * Ping An Insurance Company of China, Ltd., Shanghai, China
     - *Machine Learning Engineer Intern, Sept. 2019 - Jan. 2020*
 
-Awards and Honors
-======
+## **Awards and Honors**
+
 * ACS Fall Meeting Travel Grant
     - *NSF Center for Computer Assisted Synthesis, 2023*
 * SIGIR Student Travel Grant
