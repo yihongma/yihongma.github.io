@@ -11,10 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
 ## **Preprints**
 
 * **[arXiv'24]** [Are we making much progress? Revisiting chemical reaction yield prediction from an imbalanced regression perspective](https://arxiv.org/pdf/2402.05971.pdf)
