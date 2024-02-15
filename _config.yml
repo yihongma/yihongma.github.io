@@ -84,7 +84,7 @@ author:
   avatar           : "profile.jpg"
   bio              : "Ph.D. Student in Computer Science and Engineering"
   location         : "Notre Dame, IN"
-  employer         : "University of Notre Dame"
+  employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=3kR9GJAAAAAJ&hl=en&authuser=1"         # Update with the correct link to your profile
   email            : "yma5@nd.edu"
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "yihongma"
-  orcid            : "https://orcid.org/0000-0003-4729-5953"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
