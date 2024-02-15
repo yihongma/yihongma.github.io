@@ -7,8 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-Please find my full list of publications on [Google Scholar](https://scholar.google.com/citations?user=3kR9GJAAAAAJ&hl=en&authuser=1)
-
 ## **Preprints**
 
 * **[arXiv'24]** [Are we making much progress? Revisiting chemical reaction yield prediction from an imbalanced regression perspective](https://arxiv.org/pdf/2402.05971.pdf)
