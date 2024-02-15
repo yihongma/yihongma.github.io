@@ -3,57 +3,42 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* University of Notre Dame
+    - *Ph.D. in Computer Science and Engineering, Aug. 2020 - Present*
+    - *Visiting Undergraduate Student, Aug. 2018 - Sept. 2019*
+* Shanghai University of Finance and Economics
+    - *B.Ec. in Finance, Sept. 2016 - June 2020*
 
-Work experience
+Professional Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* University of Notre Dame, Notre Dame, IN
+    - *Graduate Research Assistant, Aug. 2020 - Present*
+    - *Graduate Teaching Assistant, Aug. 2021 - Dec. 2021*
+    - *Undergraduate Research Assistant, May 2019 - Sept. 2019*
+* Futurewei Technologies, Inc., Santa Clara, CA
+    - *Research Intern, June 2023 - Oct. 2023*
+* Ping An Insurance Company of China, Ltd., Shanghai, China
+    - *Machine Learning Engineer Intern, Sept. 2019 - Jan. 2020*
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Awards and Honors
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* ACS Fall Meeting Travel Grant
+    - *NSF Center for Computer Assisted Synthesis, 2023*
+* SIGIR Student Travel Grant
+    - *The 31st CIKM Conference, 2022*
+* Best Paper Award
+    - *The 6th DLG-KDD Workshop, 2020*
+* Best Use of External Data Award
+    - *The 9th ASA DataFest Competition at Notre Dame, 2019*
+* Chinese Government Award
+    - *China Scholarship Council, 2018*
+* Outstanding Student Award
+    - *Shanghai University of Finance and Economics, 2017*
+* People's Scholarship
+    - *Shanghai University of Finance and Economics, 2017*
