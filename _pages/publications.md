@@ -5,11 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  Please find my full list of publications on <u><a href="{{site.author.googlescholar}}">Google Scholar</a>.</u>
-{% endif %}
-
 {% include base_path %}
+
+Please find my full list of publications on [Google Scholar](https://scholar.google.com/citations?user=3kR9GJAAAAAJ&hl=en&authuser=1)
 
 ## **Preprints**
 
