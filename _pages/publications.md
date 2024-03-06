@@ -9,13 +9,14 @@ author_profile: true
 
 ## **Preprints**
 
-* **[arXiv'24]** [Are we making much progress? Revisiting chemical reaction yield prediction from an imbalanced regression perspective](https://arxiv.org/pdf/2402.05971.pdf)
-  - **Yihong Ma**, Xiaobao Huang, Bozhao Nan, Nuno Moniz, Xiangliang Zhang, Olaf Wiest, and Nitesh V. Chawla
-
 * **[arXiv'23]** [Class-Imbalanced Learning on Graphs: A Survey](https://arxiv.org/pdf/2304.04300.pdf)
   - **Yihong Ma**, Yijun Tian, Nuno Moniz, and Nitesh V. Chawla
 
 ## **Conference Papers**
+
+* **[WWW'24]** [Are we making much progress? Revisiting chemical reaction yield prediction from an imbalanced regression perspective](https://arxiv.org/pdf/2402.05971.pdf)
+  - **Yihong Ma**, Xiaobao Huang, Bozhao Nan, Nuno Moniz, Xiangliang Zhang, Olaf Wiest, and Nitesh V. Chawla
+  - *ACM Web Conference, 2024*
 
 * **[WWW'24]** [HetGPT: Harnessing the Power of Prompt Tuning in Pre-Trained Heterogeneous Graph Neural Networks](https://arxiv.org/pdf/2310.15318.pdf)
   - **Yihong Ma**, Ning Yan, Jiayu Li, Masood Mortazavi, and Nitesh V. Chawla
