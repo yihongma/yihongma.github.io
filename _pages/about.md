@@ -11,7 +11,7 @@ I am a fourth-year (2020 - Present) Ph.D. student in the Department of Computer 
 
 My research interests lie broadly in machine learning and data mining, with a focus on graph neural networks. More specifically, I work on developing graph neural networks that can effectively handle data imbalance and data sparsity on graphs. Additionally, I also apply machine learning to advance interdisciplinary studies, such as AI for Chemistry and COVID-19 forecasting.
 
-<span style="color:red">**I am actively seeking internships for Summer 2024. Please don't hesitate to get in touch if you have any relevant opportunities!**</span>
+<!-- <span style="color:red">**I am actively seeking internships for Summer 2024. Please don't hesitate to get in touch if you have any relevant opportunities!**</span> -->
 
 
 What's New
