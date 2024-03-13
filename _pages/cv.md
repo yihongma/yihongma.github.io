@@ -28,8 +28,10 @@ author_profile: true
 
 ## **Awards and Honors**
 
+* NSF Student Travel Award
+    - *The 2024 ACM Web Conference, 2024*
 * ACS Fall Meeting Travel Grant
-    - *NSF Center for Computer Assisted Synthesis, 2023*
+    - *NSF Center for Computer-Assisted Synthesis, 2023*
 * SIGIR Student Travel Grant
     - *The 31st CIKM Conference, 2022*
 * Best Paper Award
