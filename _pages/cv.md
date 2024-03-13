@@ -38,7 +38,7 @@ author_profile: true
     - *The 6th DLG-KDD Workshop, 2020*
 * Best Use of External Data Award
     - *The 9th ASA DataFest Competition at Notre Dame, 2019*
-* Chinese Government Award
+* Award for Outstanding Students Abroad
     - *China Scholarship Council, 2018*
 * Outstanding Student Award
     - *Shanghai University of Finance and Economics, 2017*
