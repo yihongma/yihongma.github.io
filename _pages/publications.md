@@ -14,11 +14,11 @@ author_profile: true
 
 ## **Conference Papers**
 
-* **[WWW'24]** [Are we making much progress? Revisiting chemical reaction yield prediction from an imbalanced regression perspective](https://arxiv.org/pdf/2402.05971.pdf)
+* **[WWW'24]** [Are we making much progress? Revisiting chemical reaction yield prediction from an imbalanced regression perspective](https://dl.acm.org/doi/pdf/10.1145/3589335.3651470)
   - **Yihong Ma**, Xiaobao Huang, Bozhao Nan, Nuno Moniz, Xiangliang Zhang, Olaf Wiest, and Nitesh V. Chawla
   - *ACM Web Conference, 2024*
 
-* **[WWW'24]** [HetGPT: Harnessing the Power of Prompt Tuning in Pre-Trained Heterogeneous Graph Neural Networks](https://arxiv.org/pdf/2310.15318.pdf)
+* **[WWW'24]** [HetGPT: Harnessing the Power of Prompt Tuning in Pre-Trained Heterogeneous Graph Neural Networks](https://dl-acm-org.proxy.library.nd.edu/doi/pdf/10.1145/3589334.3645685)
   - **Yihong Ma**, Ning Yan, Jiayu Li, Masood Mortazavi, and Nitesh V. Chawla
   - *ACM Web Conference, 2024*
 
