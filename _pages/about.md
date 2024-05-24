@@ -17,8 +17,8 @@ My research interests lie broadly in machine learning and data mining, with a fo
 What's New
 ======
 * [2024/04] I passed my Ph.D. candidacy exam.
-* [2024/03] One first-author [paper](https://arxiv.org/pdf/2402.05971.pdf) on improving the predictions of chemical reaction yields using imbalanced regression was accepted at *WWW'24*.
-* [2024/01] One first-author [paper](https://arxiv.org/pdf/2310.15318.pdf) on enhancing pre-trained heterogeneous GNNs with prompt learning was accepted at *WWW'24*.
+* [2024/03] One first-author [paper](https://dl.acm.org/doi/pdf/10.1145/3589335.3651470) on improving the predictions of chemical reaction yields using imbalanced regression was accepted at *WWW'24*.
+* [2024/01] One first-author [paper](https://dl-acm-org.proxy.library.nd.edu/doi/pdf/10.1145/3589334.364568) on enhancing pre-trained heterogeneous GNNs with prompt learning was accepted at *WWW'24*.
 * [2023/12] I am serving as a co-organizer of the Learning on Graphs Conference (LoG) [Local Meetup](https://log2023midnorth.github.io/).
 * [2023/06] I am joining [Futurewei Technologies Inc.](https://www.futurewei.com/) as a research intern this summer.
 * [2023/04] One [survey paper](https://arxiv.org/pdf/2207.04869.pdf) on graph molecular representation learning was accepted at *IJCAI'23*.
