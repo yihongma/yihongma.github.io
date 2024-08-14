@@ -17,21 +17,27 @@ author_profile: true
 
 ## **Professional Experience**
 
-* University of Notre Dame, Notre Dame, IN
+<!-- * University of Notre Dame, Notre Dame, IN
     - *Graduate Research Assistant, Aug. 2020 - Present*
     - *Graduate Teaching Assistant, Aug. 2021 - Dec. 2021*
-    - *Undergraduate Research Assistant, May 2019 - Sept. 2019*
-* Futurewei Technologies, Inc., Santa Clara, CA
+    - *Undergraduate Research Assistant, May 2019 - Sept. 2019* -->
+* IBM Research, Dublin, Ireland
+    - *Research Intern, May 2024 - Aug. 2024*
+* Futurewei Technologies, Santa Clara, CA
     - *Research Intern, June 2023 - Oct. 2023*
-* Ping An Insurance Company of China, Ltd., Shanghai, China
+* Ping An Insurance Company of China, Shanghai, China
     - *Machine Learning Engineer Intern, Sept. 2019 - Jan. 2020*
 
 ## **Awards and Honors**
 
+* Graduate School Professional Development Award
+    - *Zahm Professional Development Fund, 2024*
 * NSF Student Travel Award
     - *The 2024 ACM Web Conference, 2024*
 * ACS Fall Meeting Travel Grant
-    - *NSF Center for Computer-Assisted Synthesis, 2023*
+    - *NSF Center for Computer-Assisted Synthesis, 2023/2024*
+* Conference Presentation Grant
+    - *University of Notre Dame, 2024*
 * SIGIR Student Travel Grant
     - *The 31st CIKM Conference, 2022*
 * Best Paper Award
