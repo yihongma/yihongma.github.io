@@ -7,15 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year (2020 - Present) Ph.D. student in the Department of Computer Science and Engineering at the [University of Notre Dame](https://www.nd.edu/), advised by Prof. [Nitesh Chawla](https://niteshchawla.nd.edu/), ACM/IEEE/AAAI Fellow. Before that, I received my B.Ec. degree from [Shanghai University of Finance and Economics](https://english.sufe.edu.cn/).
+I am a fifth-year (2020 - Present) Ph.D. candidate in Computer Science and Engineering at the [University of Notre Dame](https://www.nd.edu/), advised by Prof. [Nitesh Chawla](https://niteshchawla.nd.edu/), ACM/IEEE/AAAI Fellow. Before that, I received my Bachelor's degree from [Shanghai University of Finance and Economics](https://english.sufe.edu.cn/).
 
-My research interests lie broadly in machine learning and data mining, with a focus on graph neural networks. More specifically, I work on developing graph neural networks that can effectively handle data imbalance and data sparsity on graphs. Additionally, I also apply machine learning to advance interdisciplinary studies, such as AI for Chemistry and COVID-19 forecasting.
+My research is broadly centered on artificial intelligence, machine learning, and data science. Within these fields, I aim to **advance scientific discoveries through graph machine learning**. I am particularly interested in developing machine learning algorithms that can effectively and efficiently address data imbalance and sparsity in scientific graph data, such as molecular graphs in chemistry and single-cell knowledge graphs in biology. My work also contributes to various fields, including public health, nutrition and food services, and aerospace safety.
 
-<!-- <span style="color:red">**I am actively seeking internships for Summer 2024. Please don't hesitate to get in touch if you have any relevant opportunities!**</span> -->
+<!-- <span style="color:red">**I am actively seeking internships for Fall 2024. Please don't hesitate to get in touch if you have any relevant opportunities!**</span> -->
 
 
 What's New
 ======
+* [2024/05] I am joining [IBM Research](https://research.ibm.com/labs/ireland) as a research intern this summer.
 * [2024/04] I passed my Ph.D. candidacy exam.
 * [2024/03] One first-author [paper](https://dl.acm.org/doi/pdf/10.1145/3589335.3651470) on improving the predictions of chemical reaction yields using imbalanced regression was accepted at *WWW'24*.
 * [2024/01] One first-author [paper](https://dl-acm-org.proxy.library.nd.edu/doi/pdf/10.1145/3589334.364568) on enhancing pre-trained heterogeneous GNNs with prompt learning was accepted at *WWW'24*.
