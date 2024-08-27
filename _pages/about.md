@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year (2020 - Present) Ph.D. candidate in Computer Science and Engineering at the [University of Notre Dame](https://www.nd.edu/), advised by Prof. [Nitesh Chawla](https://niteshchawla.nd.edu/), ACM/IEEE/AAAI Fellow. Before that, I received my Bachelor's degree from [Shanghai University of Finance and Economics](https://english.sufe.edu.cn/).
+I am a final year Ph.D. candidate in Computer Science at the [University of Notre Dame](https://www.nd.edu/), advised by Prof. [Nitesh Chawla](https://niteshchawla.nd.edu/), ACM/IEEE/AAAI Fellow. Before that, I received my Bachelor's degree from [Shanghai University of Finance and Economics](https://english.sufe.edu.cn/).
 
 My research is broadly centered on artificial intelligence, machine learning, and data science. Within these fields, I aim to **advance scientific discoveries through graph machine learning**. I am particularly interested in developing machine learning algorithms that can effectively and efficiently address data imbalance and sparsity in scientific graph data, such as molecular graphs in chemistry and single-cell knowledge graphs in biology. My work also contributes to various fields, including public health, nutrition and food services, and aerospace safety.
 
